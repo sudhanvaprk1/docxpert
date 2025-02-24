@@ -1,0 +1,14 @@
+flask
+nltk
+pymupdf4llm
+clean-text
+pandas
+scikit-learn
+numpy
+sentence-transformers
+streamlit
+faiss-cpu
+python-dotenv
+beautifulsoup4
+ollama
+diskcache

@@ -1,0 +1,12 @@
+POST http://127.0.0.1:5000//docxpert/query
+Content-Type: application/json
+
+# {
+#   "query": "What do 'WEAK AI' AND 'STRONG AI' MEAN?",
+#   "subject": "AI"
+# }
+
+{
+  "query": "Why and When Deep Learning Works?",
+  "subject": "Deep Learning"
+}
